@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: /login
-
-Sitemap: https://rileygfll1891.github.io/sitemap_index.atopiape
